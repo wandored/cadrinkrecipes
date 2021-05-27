@@ -1,0 +1,5 @@
+title: 'CentraArchy Drink Recipes'
+author: CentraArchy
+logo: ./images/CA_logo_Box_bw-e1453946218299.png
+execute:
+  execute_notebooks: 'off'
