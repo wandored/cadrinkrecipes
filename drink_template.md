@@ -1,11 +1,19 @@
 # 
 
+```{image} ../images/
+:alt: 
+```
+
+:::{Notes}
+GLASS:
+GARNISH:
+:::
+
 ## INGREDIENTS
 * 
 
-## PROCEDURE
+### PROCEDURE
 1. 
 
-### SECRETS OF SUCCESS
+#### SECRETS OF SUCCESS
 
-#### BACKGROUND NOTES

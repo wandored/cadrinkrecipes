@@ -1,5 +1,15 @@
 # OLD FASHION
 
+
+```{image} ../images/
+:alt: 
+```
+
+:::{Notes}
+GLASS: Rocks
+GARNISH: Orange twist
+:::
+
 ## INGREDIENTS
 * 2 oz      Woodford Reserve
 * 3/4 oz    Simple Syrup
@@ -15,5 +25,3 @@
 * Fresh orange peel 1" x 3"
 * Stirring dilutes and chills, 15 seconds is a must
 * Do not muddle a cherry and orange
-
-#### BACKGROUND NOTES
