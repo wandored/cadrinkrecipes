@@ -1,5 +1,14 @@
 # COCO LOCO
 
+```{image} ../images/cocoLoco.jpg
+:alt: coco_loco
+```
+
+:::{Notes}
+GLASS: Rocks
+GARNISH: Pineapple Wedge
+:::
+
 ## INGREDIENTS
 * 1-1/2 oz  Patron Silver
 * 1/2 oz    Midori
@@ -8,12 +17,10 @@
 * 2 oz      Pineapple Juice
 * Fill      Ginger Beer
 
-## PROCEDURE
+### PROCEDURE
 1. Add all ingredients to shaker tin and shake til frosty
 2. Strain over fresh ice
 3. Garnish with pineapple wedge
 
-### SECRETS OF SUCCESS
-* Fresh ingredients
-
-#### BACKGROUND NOTES
+#### SECRETS OF SUCCESS
+* Bright yellow pineapple

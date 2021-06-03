@@ -1,5 +1,15 @@
 # SMOKED ROSEMARY BOURBON SOUR
 
+
+```{image} ../images/
+:alt: 
+```
+
+:::{Notes}
+GLASS: Coup
+GARNISH: Rosemary sprig
+:::
+
 ## INGREDIENTS
 * 1-3/4 oz   Makers Mark
 * 1/2 oz    Simple Syrup
@@ -17,6 +27,3 @@
 * Fresh Rosemary
 * Requiresa hard shake to aquire the froth
 * Bitter should be on top of froth
-
-#### BACKGROUND NOTES
-
