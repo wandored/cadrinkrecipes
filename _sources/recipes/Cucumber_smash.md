@@ -5,8 +5,8 @@
 ```
 
 :::{Notes}
-GLASS: Pint
-GARNISH: Cucumber slice & Mint Leaf
+GLASS: Collins
+GARNISH: Cucumber wheel & Mint Leaf
 :::
 
 ## INGREDIENTS
@@ -14,15 +14,15 @@ GARNISH: Cucumber slice & Mint Leaf
 * 1 oz  Lime Juice
 * 1 oz  Simple syrup
 * 10    Mint Leaves
-* 4     Cucumber Wheels
+* 2     Cucumber Wheels sliced 1/8" thick
 * Fill  Ginger Beer
 
 ## PROCEDURE
 1. Add all ingredients, except ginger beer to shaker tin and muddle
 2. Add ice and shake
-3. Strain over fresh ice
-4. Garnish with cucumber slice down side and mint leaf on top
+3. Strain over fresh ice in collins glass
+4. Garnish with cucumber wheel and mint leaf
 
 ### SECRETS OF SUCCESS
-* Thin Slice Cucumber
-* Fresh Mint
+* Fresh ingredients
+* Cucumber sliced 1/8" inch thick

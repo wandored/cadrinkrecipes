@@ -6,7 +6,7 @@
 ```
 
 :::{Notes}
-GLASS: Coup
+GLASS: Coupe
 GARNISH: Rosemary sprig
 :::
 
@@ -20,7 +20,7 @@ GARNISH: Rosemary sprig
 2. Lightly tourch to create smoke with out burning
 3. Add all ingredients to shaker tin
 4. Shake hard till tin is frosty
-5. Strain over rosemary
+5. Strain over rosemary into Coupe glass
 6. 2 dashes of bitter over top
 
 ### SECRETS OF SUCCESS
