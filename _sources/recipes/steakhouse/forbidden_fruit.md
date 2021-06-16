@@ -4,10 +4,8 @@
 :alt: 
 ```
 
-:::{note}
-GLASS: Rocks
-GARNISH: Lemon Peel
-:::
+* GLASS: Rocks
+* GARNISH: Lemon Peel
 
 ## INGREDIENTS
 * 1-1/2 oz  Tito's Vodka
@@ -22,5 +20,4 @@ GARNISH: Lemon Peel
 3. Strain into a rocks glass with ice
 4. Garnish with a lemon peel
 
-#### SECRETS OF SUCCESS
 

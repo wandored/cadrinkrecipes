@@ -4,10 +4,8 @@
 :alt: 
 ```
 
-:::{note}
-GLASS: Coupe
-GARNISH: Luxardo cherry
-:::
+* GLASS: Coupe
+* GARNISH: Luxardo cherry
 
 ## INGREDIENTS
 * 1-1/2 oz  Ford's Gin
@@ -23,5 +21,4 @@ GARNISH: Luxardo cherry
 4. Strain into a coupe
 5. Garnish with a luxardo cherry
 
-#### BACKGROUND NOTES
 

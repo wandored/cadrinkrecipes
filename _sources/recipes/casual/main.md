@@ -1,4 +1,4 @@
-# CASUAL RESTAURANT DRINK RECIPES
+# CASUAL DRINKS
 
 ```{image} ../../images/chophouse-nola-bar-300x229.jpg
 :alt: nolabar

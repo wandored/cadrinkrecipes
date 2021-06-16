@@ -1,14 +1,12 @@
-# OLD FASHION
+# Old Fashion
 
 
 ```{image} ../images/
 :alt: 
 ```
 
-:::{note}
-GLASS: Rocks
-GARNISH: Orange twist
-:::
+* GLASS: Rocks
+* GARNISH: Orange twist
 
 ## INGREDIENTS
 * 2 oz      Woodford Reserve
@@ -21,7 +19,8 @@ GARNISH: Orange twist
 3. Stir for 15 seconds
 4. twist orange peel and drop into drink
 
-### SECRETS OF SUCCESS
+```{important}
 * Fresh orange peel 1" x 3"
 * Stirring dilutes and chills, 15 seconds is a must
 * Do not muddle a cherry and orange
+```

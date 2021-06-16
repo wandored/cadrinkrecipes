@@ -4,10 +4,8 @@
 :alt: 
 ```
 
-:::{note}
-GLASS: Coupe
-GARNISH: Lemon Peel
-:::
+* GLASS: Coupe
+* GARNISH: Lemon Peel
 
 ## INGREDIENTS
 * 3/4 oz    Nonnino Amaro
@@ -20,7 +18,8 @@ GARNISH: Lemon Peel
 2. Add ice and shake hard for 15 seconds
 3. Strain into a coupe and garnish with a lemon peel
 
-#### BACKGROUND NOTES
+```{note}
 * Riff on a paper plain
 * Rum is used as sub for bourbon
+```
 

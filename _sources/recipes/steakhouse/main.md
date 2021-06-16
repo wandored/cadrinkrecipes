@@ -1,4 +1,4 @@
-# STEAKHOUSE RESTAURANT DRINK RECIPES
+# STEAKHOUSE DRINKS
 
 ```{image} ../../images/chophouse-nola-bar-300x229.jpg
 :alt: nolabar

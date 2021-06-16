@@ -4,10 +4,8 @@
 :alt: 
 ```
 
-:::{note}
-GLASS: Coupe
-GARNISH: Star Anise
-:::
+* GLASS: Coupe
+* GARNISH: Star Anise
 
 ## INGREDIENTS
 * 2 oz      1792 Bourbon
@@ -22,10 +20,12 @@ GARNISH: Star Anise
 3. Hard shake for 15 seconds
 4. Strain into a coupe glass and garnish with a whole star anise
 
-#### SECRETS OF SUCCESS
+```{important}
 * Measure maple syrup first to get all of the maple syrup out in the process
 * Anise should be whole, no breaks
+```
 
-#### BACKGROUND NOTES
+```{note}
 * This is a riff on a Lion's Tail
+```
 

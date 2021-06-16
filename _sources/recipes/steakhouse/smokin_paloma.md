@@ -4,10 +4,8 @@
 :alt: 
 ```
 
-:::{note}
-GLASS: Highball
-GARNISH: Grapefruit wedge
-:::
+* GLASS: Highball
+* GARNISH: Grapefruit wedge
 
 ## INGREDIENTS
 * 2 oz      Bahnez Mezcal
@@ -23,6 +21,7 @@ GARNISH: Grapefruit wedge
 4. Strain over ice in a highball glass
 5. Garnish with a grapefruit wedge
 
-#### BACKGROUND NOTES
+```{note}
 * Mezcal adds a smokiness to the traditional Paloma
+```
 

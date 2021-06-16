@@ -1,13 +1,11 @@
-# CUCUMBER SMASH
+# Cucumber Smash
 
 ```{image} ../images/cucumberSmash.jpg
 :alt: cucumber_smash
 ```
 
-:::{note}
-GLASS: Collins
-GARNISH: Cucumber wheel & Mint Leaf
-:::
+* GLASS: Collins
+* GARNISH: Cucumber wheel & Mint Leaf
 
 ## INGREDIENTS
 * 2 oz  Grey Goose Vodka
@@ -23,6 +21,7 @@ GARNISH: Cucumber wheel & Mint Leaf
 3. Strain over fresh ice in collins glass
 4. Garnish with cucumber wheel and mint leaf
 
-### SECRETS OF SUCCESS
+```{important}
 * Fresh ingredients
 * Cucumber sliced 1/8" inch thick
+```

@@ -4,10 +4,8 @@
 :alt: 
 ```
 
-:::{note}
-GLASS: Rocks
-GARNISH: Lemon Peel
-:::
+* GLASS: Rocks
+* GARNISH: Lemon Peel
 
 ## INGREDIENTS
 * 2 oz      Cynar
@@ -21,9 +19,9 @@ GARNISH: Lemon Peel
 3. Strain into a rocks glass with a big cube
 4. Garnish with lemon peel
 
-#### SECRETS OF SUCCESS
 
-#### BACKGROUND NOTES:
+```{note}
 * Great pre/post dinner drink
 * Cynar is a versatile, herbaceous amaro made of artichokes.
+```
 

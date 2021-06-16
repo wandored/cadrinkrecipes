@@ -1,13 +1,11 @@
-# SPIKED PEACH PALMER
+# Spiked Peach Palmer
 
 ```{image} ../images/spikedPeachPalmer.jpg
 :alt: Spiked_Peach_Palmer
 ```
 
-:::{note}
-GLASS: Rocks
-GARNISH: Lemon Slice
-:::
+* GLASS: Rocks
+* GARNISH: Lemon Slice
 
 ## INGREDIENTS
 * 1-1/2 oz  Jim Beam Peach
@@ -21,6 +19,7 @@ GARNISH: Lemon Slice
 3. Pour over fresh ice into rocks glass
 4. Garnish with lemon slice
 
-#### SECRETS OF SUCCESS
+```{important}
 * Long shake
 * Fresh lemon slice
+```

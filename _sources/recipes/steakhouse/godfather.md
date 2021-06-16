@@ -4,10 +4,8 @@
 :alt: 
 ```
 
-:::{note}
-GLASS: Rocks
-GARNISH: Orange Peel
-:::
+* GLASS: Rocks
+* GARNISH: Orange Peel
 
 ## INGREDIENTS
 * 2 oz  Johnnie Walker Red
@@ -18,6 +16,7 @@ GARNISH: Orange Peel
 2. Add a large ice cube
 3. Garnish with an orange peel# SECRETS OF SUCCESS
 
-#### BACKGROUND NOTES
+```{note}
 * Great pre or post dinner cocktail
 * Smokey and sweet
+```
