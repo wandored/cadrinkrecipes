@@ -1,6 +1,6 @@
 # Coco Loco
 
-```{image} ../images/cocoLoco.jpg
+```{image} ../../images/cocoLoco.jpg
 :alt: coco_loco
 ```
 

@@ -1,6 +1,6 @@
 # Forbidden Fruit
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

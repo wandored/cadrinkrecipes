@@ -1,5 +1,9 @@
 # Barrel Aged Manhattan
 
+```{image} ../../images/
+:alt: 
+```
+
 * GLASS: Rocks
 * GARNISH: 
 

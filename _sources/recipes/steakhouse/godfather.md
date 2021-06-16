@@ -1,6 +1,6 @@
 # Godfather
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

@@ -1,6 +1,6 @@
 # Spiked Peach Palmer
 
-```{image} ../images/spikedPeachPalmer.jpg
+```{image} ../../images/
 :alt: Spiked_Peach_Palmer
 ```
 

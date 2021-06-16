@@ -1,6 +1,6 @@
 # Pineapple Jalapeno Margarita
 
-```{image} ../images/pineappleJalapenoMargarita.jpg
+```{image} ../../images/pineappleJalapenoMargarita.jpg
 :alt: 
 ```
 

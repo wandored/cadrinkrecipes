@@ -1,6 +1,6 @@
 # Blue Hawaiian
 
-```{image} ../images/blueHawaiian.jpg
+```{image} ../../images/blueHawaiian.jpg
 :alt: blue_hawaiian
 ```
 

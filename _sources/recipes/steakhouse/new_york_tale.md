@@ -1,6 +1,6 @@
 # New York Tale
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

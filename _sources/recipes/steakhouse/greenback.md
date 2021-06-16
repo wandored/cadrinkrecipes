@@ -1,6 +1,6 @@
 # Greenback
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

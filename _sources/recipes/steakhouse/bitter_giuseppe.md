@@ -1,6 +1,6 @@
 # Bitter Giuseppe
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

@@ -1,7 +1,7 @@
 # Old Fashion
 
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

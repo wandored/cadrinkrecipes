@@ -1,6 +1,6 @@
 # Luck Be A Lady
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

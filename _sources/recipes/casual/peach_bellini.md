@@ -1,6 +1,6 @@
 # Peach Bellini
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

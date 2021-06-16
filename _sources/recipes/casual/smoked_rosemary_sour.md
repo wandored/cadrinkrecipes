@@ -1,6 +1,6 @@
 # Smoked Rosemary Bourbon Sour
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 

@@ -1,6 +1,6 @@
 # Cucumber Smash
 
-```{image} ../images/cucumberSmash.jpg
+```{image} ../../images/
 :alt: cucumber_smash
 ```
 

@@ -1,6 +1,6 @@
 # Smokin' Paloma
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 
