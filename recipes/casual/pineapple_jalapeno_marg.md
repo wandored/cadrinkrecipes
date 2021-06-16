@@ -1,13 +1,11 @@
-# PINEAPPLE JALAPENO MARGARITA
+# Pineapple Jalapeno Margarita
 
-```{image} ../images/pineappleJalapenoMargarita.jpg
+```{image} ../../images/pineappleJalapenoMargarita.jpg
 :alt: 
 ```
 
-:::{Notes}
-GLASS: Rocks
-GARNISH: Pineapple Wedge & Jalapeno slice
-:::
+* GLASS: Rocks
+* GARNISH: Pineapple Wedge & Jalapeno slice
 
 ## INGREDIENTS
 * 1-1/5 oz  Hornitos Reposado
@@ -21,10 +19,11 @@ GARNISH: Pineapple Wedge & Jalapeno slice
 1. Combine pineapple, jalapeno and triple sec
 2. Muddle
 3. Add remaining ingredients and shake till frosty
-4. Sugar rim of racks glass
+4. Sugar rim of rocks glass
 5. Strain over fresh ice
 6. Garnish fresh pineapple wedge and jalapeno slice
 
-### SECRETS OF SUCCESS
-* Bright Yellow Pineapple
-* Fresh Jalapeno slice
+```{important}
+* Fresh garnish
+* Fresh pineabble and jalapeno slice
+```

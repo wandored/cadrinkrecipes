@@ -1,11 +1,21 @@
-- file: ./recipes/main
-  sections:
-    - file: ./recipes/coco_loco
-    - file: ./recipes/blue_hawaiian
-    - file: ./recipes/old_fashioned
-    - file: ./recipes/peach_bellini
-    - file: ./recipes/Cucumber_smash
-    - file: ./recipes/spiked_peach_palmer
-    - file: ./recipes/smoked_rosemary_sour
-    - file: ./recipes/pineapple_jalapeno_marg
-    - file: ./recipes/barrel_aged_manhattan
+- file: index
+- file: ./recipes/casual/main
+  chapters:
+    - file: ./recipes/casual/barrel_aged_manhattan
+    - file: ./recipes/casual/blue_hawaiian
+    - file: ./recipes/casual/coco_loco
+    - file: ./recipes/casual/Cucumber_smash
+    - file: ./recipes/casual/old_fashioned
+    - file: ./recipes/casual/peach_bellini
+    - file: ./recipes/casual/pineapple_jalapeno_marg
+    - file: ./recipes/casual/smoked_rosemary_sour
+    - file: ./recipes/casual/spiked_peach_palmer
+- file: ./recipes/steakhouse/main
+  chapters:
+    - file: ./recipes/steakhouse/bitter_giuseppe
+    - file: ./recipes/steakhouse/forbidden_fruit
+    - file: ./recipes/steakhouse/godfather
+    - file: ./recipes/steakhouse/greenback
+    - file: ./recipes/steakhouse/luck_be_a_lady
+    - file: ./recipes/steakhouse/new_york_tale
+    - file: ./recipes/steakhouse/smokin_paloma

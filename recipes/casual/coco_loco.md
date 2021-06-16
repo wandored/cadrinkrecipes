@@ -1,13 +1,11 @@
-# COCO LOCO
+# Coco Loco
 
-```{image} ../images/cocoLoco.jpg
+```{image} ../../images/cocoLoco.jpg
 :alt: coco_loco
 ```
 
-:::{Notes}
-GLASS: Rocks
-GARNISH: Pineapple Wedge
-:::
+* GLASS: Rocks
+* GARNISH: Pineapple Wedge
 
 ## INGREDIENTS
 * 1-1/2 oz  Patron Silver
@@ -22,5 +20,6 @@ GARNISH: Pineapple Wedge
 2. Strain over fresh ice
 3. Garnish with pineapple wedge
 
-#### SECRETS OF SUCCESS
+```{important}
 * Bright yellow pineapple
+```

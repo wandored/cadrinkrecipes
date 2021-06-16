@@ -1,13 +1,11 @@
-# BLUE HAWAIIAN
+# Blue Hawaiian
 
-```{image} ../images/blueHawaiian.jpg
+```{image} ../../images/blueHawaiian.jpg
 :alt: blue_hawaiian
 ```
 
-:::{Notes}
-GLASS: Hurricane
-GARNISH: Pineapple & Cherry
-:::
+* GLASS: Hurricane
+* GARNISH: Pineapple & Cherry
 
 ## INGREDIENTS
 * 1-1/2 oz  Bacardi
@@ -22,6 +20,7 @@ GARNISH: Pineapple & Cherry
 3. Pour into iced hurricane glass
 4. Garnish with pineapple and cherry
 
-#### SECRETS OF SUCCESS
+:::{important}
 * Bright yellow pineapple
 * Fresh cherry
+:::

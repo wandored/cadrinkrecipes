@@ -1,4 +1,11 @@
-# BARREL AGED MANHATTAN
+# Barrel Aged Manhattan
+
+```{image} ../../images/
+:alt: 
+```
+
+* GLASS: Rocks
+* GARNISH: 
 
 ## INGREDIENTS
 * 3 LT      Four Roses Small Batch

@@ -4,7 +4,7 @@
 :alt: 
 ```
 
-:::{Notes}
+:::{note}
 GLASS:
 GARNISH:
 :::

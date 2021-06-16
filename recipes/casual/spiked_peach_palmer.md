@@ -1,16 +1,14 @@
-# SPIKED PEACH PALMER
+# Spiked Peach Palmer
 
-```{image} ../images/spikedPeachPalmer.jpg
+```{image} ../../images/
 :alt: Spiked_Peach_Palmer
 ```
 
-:::{Notes}
-GLASS: Collins
-GARNISH: Lemon Slice
-:::
+* GLASS: Rocks
+* GARNISH: Lemon Slice
 
 ## INGREDIENTS
-* 1-1/2 oz  Jim BeamPeach
+* 1-1/2 oz  Jim Beam Peach
 * 1/2 oz    DeKuyper Peachtree
 * 2 oz      Unsweet Tea
 * 2 oz      Lemonade
@@ -18,9 +16,10 @@ GARNISH: Lemon Slice
 ### PROCEDURE
 1. Combine in tim with ice
 2. Shake until tin is frosty
-3. Pour over fresh ice
+3. Pour over fresh ice into rocks glass
 4. Garnish with lemon slice
 
-#### SECRETS OF SUCCESS
+```{important}
 * Long shake
 * Fresh lemon slice
+```

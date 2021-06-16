@@ -1,13 +1,11 @@
-# PEACH BELLINI
+# Peach Bellini
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 
-:::{Notes}
-GLASS:
-GARNISH:
-:::
+* GLASS:
+* GARNISH:
 
 ## INGREDIENTS
 * 1oz Deep Eddy Peach
@@ -18,4 +16,3 @@ GARNISH:
 1. Add peach ingredients
 2. Top with Prosseco
 
-#### SECRETS OF SUCCESS

@@ -1,14 +1,11 @@
-# SMOKED ROSEMARY BOURBON SOUR
+# Smoked Rosemary Bourbon Sour
 
-
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 
-:::{Notes}
-GLASS: Coup
-GARNISH: Rosemary sprig
-:::
+* GLASS: Coupe
+* GARNISH: Rosemary sprig
 
 ## INGREDIENTS
 * 1-3/4 oz   Makers Mark
@@ -20,10 +17,11 @@ GARNISH: Rosemary sprig
 2. Lightly tourch to create smoke with out burning
 3. Add all ingredients to shaker tin
 4. Shake hard till tin is frosty
-5. Strain over rosemary
+5. Strain over rosemary into Coupe glass
 6. 2 dashes of bitter over top
 
-### SECRETS OF SUCCESS
+```{important}
 * Fresh Rosemary
 * Requiresa hard shake to aquire the froth
 * Bitter should be on top of froth
+```
