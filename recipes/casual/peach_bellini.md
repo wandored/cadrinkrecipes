@@ -4,15 +4,23 @@
 :alt: 
 ```
 
+```{note}
 * GLASS:
 * GARNISH:
+```
 
-## INGREDIENTS
-* 1oz Deep Eddy Peach
-* Splash of Peach Schnapps
-* Prosseco
+```{list-table}
+:header-rows:  1
+* - Ingredients
+  - Amount
+* - Deep Eddy Peach
+  - 1oz
+* - Peach Schnapps
+  - Splash
+* - Prosseco
+  - Fill
+```
 
-### PROCEDURE
+## PROCEDURE
 1. Add peach ingredients
 2. Top with Prosseco
-

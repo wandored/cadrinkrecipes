@@ -12,6 +12,7 @@
     - file: ./recipes/casual/spiked_peach_palmer
 - file: ./recipes/steakhouse/main
   chapters:
+    - file: ./recipes/steakhouse/barrelaged
     - file: ./recipes/steakhouse/bitter_giuseppe
     - file: ./recipes/steakhouse/forbidden_fruit
     - file: ./recipes/steakhouse/godfather

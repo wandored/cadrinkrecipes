@@ -4,17 +4,28 @@
 :alt: 
 ```
 
+```{note}
 * GLASS: Coupe
 * GARNISH: Star Anise
+```
 
-## INGREDIENTS
-* 2 oz      1792 Bourbon
-* 3/4 oz    Novels Amaro
-* 1/2 oz    Lemon
-* 1/2 oz    Maple Syrup
-* 3 dashes  Angostura
+```{list-table}
+:header-rows:  1
+* - Ingredients
+  - Amount
+* - 1792 Bourbon
+  - 2 oz
+* - Novels Amaro
+  - 3/4 oz
+* - Lemon
+  - 1/2 oz
+* - Maple Syrup
+  - 1/2 oz
+* - Angostura
+  - 3 dashes
+```
 
-### PROCEDURE
+## PROCEDURE
 1. Build in a shaker
 2. Add ice
 3. Hard shake for 15 seconds
@@ -25,7 +36,7 @@
 * Anise should be whole, no breaks
 ```
 
-```{note}
+```{tip}
 * This is a riff on a Lion's Tail
 ```
 

@@ -4,16 +4,28 @@
 :alt: 
 ```
 
+```{note}
 * GLASS: Rocks
 * GARNISH: Pineapple Wedge & Jalapeno slice
+```
 
-## INGREDIENTS
-* 1-1/5 oz  Hornitos Reposado
-* 1/2 oz    Fresh Lime Juice
-* 3/4 oz    Triple Sec
-* 1/2 oz    Pineapple Juice
-* 1 inch    Pineapple Chunk
-* 1 slice   Fresh Jalapeno
+```{list-table}
+:header-rows:  1
+* - Ingredients
+  - Amount
+* - Hornitos Reposado
+  - 1-1/5 oz
+* - Fresh Lime Juice
+  - 1/2 oz
+* - Triple Sec
+  - 3/4 oz
+* - Pineapple Juice
+  - 1/2 oz
+* - Pineapple Chunk
+  - 1 inch
+* - Fresh Jalapeno
+  - 1 slice
+```
 
 ## PROCEDURE
 1. Combine pineapple, jalapeno and triple sec

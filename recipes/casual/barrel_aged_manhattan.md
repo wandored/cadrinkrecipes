@@ -1,16 +1,16 @@
-# Barrel Aged Manhattan
+# Barrel Aged Recipes
 
-```{image} ../../images/
-:alt: 
+
+## Barrel Aged Manhattan
+
+```{list-table}
+:header-rows:  1
+* - Ingredients
+  - Amount
+* - Four Roses Small Batch
+  - 3 LT
+* - Sweet Vermouth
+  - 1 LT
+* - Orange Bitter
+  - 1-1/3 oz
 ```
-
-* GLASS: Rocks
-* GARNISH: 
-
-## INGREDIENTS
-* 3 LT      Four Roses Small Batch
-* 1 LT      Sweet Vermouth
-* 1-1/3 oz  Orange Bitter
-
-## PROCEDURE
-1. Pour ingredients into 3 or 5 liter barrel
