@@ -4,13 +4,22 @@
 :alt: 
 ```
 
+```{note}
 * GLASS: Coupe
 * GARNISH: Rosemary sprig
+```
 
-## INGREDIENTS
-* 1-3/4 oz   Makers Mark
-* 1/2 oz    Simple Syrup
-* 3/4 oz   Fresh Lemon Juice
+```{list-table}
+:header-rows:  1
+* - Ingredients
+  - Amount
+* - Makers Mark
+  - 1-3/4 oz
+* - Simple Syrup
+  - 1/2 oz
+* - Fresh Lemon Juice
+  - 3/4 oz
+```
 
 ## PROCEDURE
 1. Place 3 inch sprig of resemary in coupe glass

@@ -5,13 +5,22 @@
 :alt: 
 ```
 
+```{note}
 * GLASS: Rocks
 * GARNISH: Orange twist
+```
 
-## INGREDIENTS
-* 2 oz      Woodford Reserve
-* 3/4 oz    Simple Syrup
-* 2 Dash    Bitters
+```{list-table}
+:header-rows:  1
+* - Ingredients
+  - Amount
+* - Woodford Reserve
+  - 2 oz
+* - Simple Syrup
+  - 3/4 oz
+* - Bitters
+  - 2 Dash
+```
 
 ## PROCEDURE
 1. Build in double rocks

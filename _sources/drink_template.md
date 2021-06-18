@@ -1,19 +1,28 @@
 # 
 
-```{image} ../images/
+```{image} ../../images/
 :alt: 
 ```
 
-:::{note}
+```{note}
 GLASS:
 GARNISH:
-:::
+```
 
-## INGREDIENTS
-* 
+```{list-table}
+:header-rows:  1
+* - Ingredients
+  - Amount
+```
 
-### PROCEDURE
+## PROCEDURE
 1. 
 
-#### SECRETS OF SUCCESS
+```{important}
+* 
+* 
+```
 
+```{tip}
+* 
+```
