@@ -5,8 +5,8 @@
 ```
 
 ```{note}
-GLASS:
-GARNISH:
+* GLASS:
+* GARNISH:
 ```
 
 ```{list-table}
