@@ -27,6 +27,7 @@
     - file: ./recipes/steakhouse/godfather
     - file: ./recipes/steakhouse/greenback
     - file: ./recipes/steakhouse/luck_be_a_lady
+    - file: ./recipes/steakhouse/negroni_blanc
     - file: ./recipes/steakhouse/new_york_tale
     - file: ./recipes/steakhouse/palm_beach_sling
     - file: ./recipes/steakhouse/rodriguez_sour

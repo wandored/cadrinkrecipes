@@ -1,6 +1,6 @@
 # BAR PREP & BARREL RECIPES
 
-```{image} ../../images/chophouse-nola-bar-300x229.jpg
+```{image} ../../images/barrel.jpg
 :alt: nolabar
 :align: center
 ```
