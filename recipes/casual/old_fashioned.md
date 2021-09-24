@@ -1,13 +1,13 @@
 # Old Fashion
 
 
-```{image} ../../images/
-:alt: 
+```{image} ../../images/old_fashion.jpg
+:alt: old_fashion
 ```
 
 ```{note}
 * GLASS: Rocks
-* GARNISH: Orange twist
+* GARNISH: Cherry & Orange twist
 ```
 
 ```{list-table}

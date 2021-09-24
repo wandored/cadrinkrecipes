@@ -22,7 +22,7 @@
 ## PROCEDURE
 1. Build in a rocks glass
 2. Add a large ice cube
-3. Garnish with an orange peel# SECRETS OF SUCCESS
+3. Garnish with an orange peel
 
 ```{tip}
 * Great pre or post dinner cocktail

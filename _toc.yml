@@ -1,22 +1,41 @@
 - file: index
 - file: ./recipes/casual/main
   chapters:
-    - file: ./recipes/casual/barrel_aged_manhattan
+    - file: ./recipes/casual/amaretto_sour
+    - file: ./recipes/casual/cadillac_margarita
     - file: ./recipes/casual/blue_hawaiian
     - file: ./recipes/casual/coco_loco
+    - file: ./recipes/casual/cosmopolitan
+    - file: ./recipes/casual/cucumber_coupe
     - file: ./recipes/casual/Cucumber_smash
+    - file: ./recipes/casual/fresca_margarita
+    - file: ./recipes/casual/heirloom
     - file: ./recipes/casual/old_fashioned
     - file: ./recipes/casual/peach_bellini
     - file: ./recipes/casual/pineapple_jalapeno_marg
+    - file: ./recipes/casual/rumpunch
     - file: ./recipes/casual/smoked_rosemary_sour
+    - file: ./recipes/casual/soco_sangria
     - file: ./recipes/casual/spiked_peach_palmer
+    - file: ./recipes/casual/woo_woo
 - file: ./recipes/steakhouse/main
   chapters:
-    - file: ./recipes/steakhouse/barrelaged
+    - file: ./recipes/steakhouse/amaretto_sour
     - file: ./recipes/steakhouse/bitter_giuseppe
+    - file: ./recipes/steakhouse/death_and_taxes
     - file: ./recipes/steakhouse/forbidden_fruit
     - file: ./recipes/steakhouse/godfather
     - file: ./recipes/steakhouse/greenback
     - file: ./recipes/steakhouse/luck_be_a_lady
     - file: ./recipes/steakhouse/new_york_tale
+    - file: ./recipes/steakhouse/palm_beach_sling
+    - file: ./recipes/steakhouse/rodriguez_sour
     - file: ./recipes/steakhouse/smokin_paloma
+- file: ./recipes/prep/main
+  chapters:
+    - file: ./recipes/prep/barrel_aged_manhattan
+    - file: ./recipes/prep/barrelaged
+    - file: ./recipes/prep/buffalo_trace_old_fashioned
+    - file: ./recipes/prep/negroni_table
+    - file: ./recipes/prep/jalapeno_simple
+
